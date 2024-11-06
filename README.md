@@ -6,5 +6,9 @@ Yocto image for my Raspberry 5
 * Systemd starts ssh service at startup
 * Systemd starts ifupdown service at startup for eth0 with static ip of 192.168.2.2
 
+## TODO
+* Camera module 2 support
+* Output on HDMI
+
 ## Notes
 * Username: root
