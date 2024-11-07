@@ -1,0 +1,2 @@
+# clean specific package
+bitbake -c clean rpi-config
