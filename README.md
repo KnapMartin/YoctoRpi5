@@ -8,7 +8,7 @@ Yocto image for my Raspberry 5
 
 ## TODO
 * Camera module 2 support (new cable needed)
-* Output on HDMI
+* Setup cross-compiler
 
 ## Notes
 * Username: root
